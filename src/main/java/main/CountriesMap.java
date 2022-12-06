@@ -1,0 +1,117 @@
+package main;
+
+import java.util.ArrayList;
+
+public class CountriesMap extends ArrayList<String>{
+
+    public ArrayList<String> countries = new ArrayList<String>(){
+        {
+            add("Albania");
+            add("Andorra");
+            add("Armenia");
+            add("Austria");
+            add("Azerbaijan");
+            add("Belarus");
+            add("Belgium");
+            add("Bosnia and Herzegovina");
+            add("Bulgaria");
+            add("Croatia");
+            add("Cyprus");
+            add("Czechia");
+            add("Denmark");
+            add("Estonia");
+            add("Finland");
+            add("France");
+            add("Georgia");
+            add("Germany");
+            add("Greece");
+            add("Hungary");
+            add("Iceland");
+            add("Ireland");
+            add("Italy");
+            add("Kazakhstan");
+            add("Kosovo");
+            add("Latvia");
+            add("Liechtenstein");
+            add("Lithuania");
+            add("Luxembourg");
+            add("Malta");
+            add("Moldova");
+            add("Monaco");
+            add("Montenegro");
+            add("Netherlands");
+            add("North Macedonia");
+            add("Norway");
+            add("Poland");
+            add("Portugal");
+            add("Romania");
+            add("Russia");
+            add("San Marino");
+            add("Serbia");
+            add("Slovakia");
+            add("Slovenia");
+            add("Spain");
+            add("Sweden");
+            add("Switzerland");
+            add("Turkey");
+            add("Ukraine");
+            add("United Kingdom");
+            add("Vatican City");
+
+            add("Afghanistan");
+            add("Bahrain");
+            add("Bangladesh");
+            add("Bhutan");
+            add("Brunei");
+            add("Cambodia");
+            add("China");
+            add("East Timor");
+            add("India");
+            add("Indonesia");
+            add("Iran");
+            add("Iraq");
+            add("Israel");
+            add("Japan");
+            add("Jordan");
+            add("Kuwait");
+            add("Kyrgyzstan");
+            add("Laos");
+            add("Lebanon");
+            add("Malaysia");
+            add("Maldives");
+            add("Mongolia");
+            add("Myanmar");
+            add("Nepal");
+            add("North Korea");
+            add("Oman");
+            add("Pakistan");
+            add("Palestine");
+            add("Philippines");
+            add("Qatar");
+            add("Saudi Arabia");
+            add("Singapore");
+            add("South Korea");
+            add("Sri Lanka");
+            add("Syria");
+            add("Taiwan");
+            add("Tajikistan");
+            add("Thailand");
+            add("Turkmenistan");
+            add("United Arab Emirates");
+            add("Uzbekistan");
+            add("Vietnam");
+            add("Yemen");
+
+            add("Australia");
+            add("Fiji");
+            add("Marshall Islands");
+            add("Micronesia");
+            add("New Zealand");
+            add("Palau");
+            add("Papua New Guinea");
+            add("Samoa");
+            add("Solomon Islands");
+            add("Vanuatu");
+        }
+    };
+}
